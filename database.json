@@ -1102,6 +1102,12 @@
     "repo": "dso",
     "desc": "dso is a simple ORM Library based on deno_mysql"
   },
+  "due": {
+    "type": "github",
+    "owner": "lemueldls",
+    "repo": "due",
+    "desc": "A framework built for Deno, using Vue.js"
+  },
   "dynamodb": {
     "type": "github",
     "owner": "chiefbiiko",
@@ -1784,12 +1790,6 @@
     "owner": "axetroy",
     "repo": "deno_math",
     "desc": "The math module is used to provide a helper for high-precision calculations and scientific computing."
-  },
-  "maybe": {
-    "type": "github",
-    "owner": "iMarv",
-    "repo": "Maybe",
-    "desc": "A module for handling null and undefined values, inspired by Rusts Option<T>"
   },
   "md5": {
     "type": "github",
